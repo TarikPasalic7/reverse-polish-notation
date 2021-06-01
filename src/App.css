@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: inline-block;
+  margin: 20px auto;
+  width: 100%;
+  
+}
+h1{
+  text-align: center;
+}
+#operand{
+  width: 20%
+}
+.validation{
+  color: red;
+}
